@@ -11,6 +11,7 @@
     <div>
     <h1>welcome to caojianwei's web world.</h1>
     </div>
+<<<<<<< HEAD
     <asp:Panel ID="Panel1" runat="server">        
         &nbsp;&nbsp;昵称<asp:TextBox ID="txt_name" TextMode="SingleLine" MaxLength="20" runat="server"></asp:TextBox><asp:Label ID="lab_name" runat="server" Text="请输入昵称"></asp:Label>
         <br />
@@ -25,6 +26,8 @@
         <br />
         &nbsp; 验证码<asp:TextBox ID="txt_yzm" MaxLength="4" TextMode="MultiLine" Width="100" Height="80" runat="server"></asp:TextBox>
     </asp:Panel>
+=======
+>>>>>>> 961008fa30cdfc3a3b4c2ca83d402f8956cf91b3
     </form>
 </body>
 </html>
